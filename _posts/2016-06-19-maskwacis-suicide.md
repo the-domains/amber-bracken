@@ -1,18 +1,20 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: 'Maskwacis Suicide '
-datePublished: '2016-06-19T05:13:13.766Z'
-dateModified: '2016-06-19T05:13:07.367Z'
+description: Maskwacis Suicide
+datePublished: '2016-06-19T07:38:49.803Z'
+dateModified: '2016-06-19T07:38:49.423Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-19-maskwacis-suicide.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-19-maskwacis-suicide.md
 url: maskwacis-suicide/index.html
 _type: Article
 
