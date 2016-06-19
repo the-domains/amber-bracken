@@ -1,7 +1,7 @@
 name: Amber Bracken
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.51107
+typography_spectrum: 0.50085
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#fdd230'
   brandStrength: 0
   lightness: 1
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
